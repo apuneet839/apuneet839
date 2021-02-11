@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm **Puneet Arora** 👋 -->
 <h1 align="center">Hi 👋, I'm Puneet Arora</h1>
-<h3 align="center">College Student 👨‍🎓 || Pythoneer 🐍 || Machine Learning </h3>
+<h3 align="center">College Student 👨‍🎓 || Pythoneer 🐍 || Machine Learning Enthusiast</h3>
 
 Welcome to my GitHub profile!
 -  Currently working on several Machine Learning projects
